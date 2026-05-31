@@ -39,7 +39,7 @@
   <a href="https://linkedin.com/in/christian-bodziack-dainez-b59418254/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="mailto:christianbodziackdainez@gmail.com">
+  <a href="mailto:olafdasilva91@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
